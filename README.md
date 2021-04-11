@@ -180,4 +180,5 @@ Let's try to access this route
 ![access](images/chart12.png)
 
 WOW! the app is working just fine.
+
 So we conclude that the setup is up and running without any errors. 
