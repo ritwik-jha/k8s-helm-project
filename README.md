@@ -20,10 +20,10 @@ We create a dockerfile which will copy the code in the image in buildtime and wi
 
 *Checkout the image [here](https://hub.docker.com/repository/docker/ritwik46/flask-image)*
 
-### image history 
+**image history** 
 ![chart1](https://user-images.githubusercontent.com/59885389/114292608-4904c080-9aad-11eb-8b9f-5ea26e54c6e1.png)
 
-### dockerhub
+**dockerhub**
 ![chart2](images/chart2.png)
 
 ### Creating the resources manually 
